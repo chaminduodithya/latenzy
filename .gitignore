@@ -1,0 +1,10 @@
+build/
+dist/
+*.exe
+*.o
+*.ini
+.vscode/
+*.layout
+*.depend
+bin/
+obj/
